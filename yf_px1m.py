@@ -1,6 +1,6 @@
 """
 This script will download data of a week on the daily 1m prices and save as CSV file compressed using gzip
-Note yfinance only downloading of 7 days of 1m data at each scraping run
+Note yfinance only allow downloading of 7 days of 1m data at each scraping run
 So it is important to specify the dates to be less than 7 days apart
 """
 
