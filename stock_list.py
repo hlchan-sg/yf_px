@@ -1,5 +1,5 @@
 """
-the function within return a stock listing from a worksheet in an excel file
+loads a stock listing from a worksheet in an excel file
 the worksheet must have Ticker as its column head,
 the value under this column ('Ticker') will be the stock symbol in each row
 """
